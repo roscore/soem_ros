@@ -96,7 +96,7 @@ Tis is impractical for any ROS system, and as such there exists a tool called
 
 Install with
 ```bash
-sudo apt install ros-<DISTRO>-ethercat-ethercat_grant
+sudo apt install ros-<DISTRO>-ethercat-grant
 ```
 and add the following to your your `node` tag in your launchfile
 ```xml
